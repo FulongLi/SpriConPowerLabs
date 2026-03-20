@@ -5,9 +5,12 @@ description: AI-assisted power electronics converter design automation.
 ---
 
 <header class="hero">
+  <!-- Video hero (disabled — use image below)
   <video class="hero-video" autoplay muted loop playsinline>
     <source src="{{ '/images/vids/main.mp4' | relative_url }}" type="video/mp4">
   </video>
+  -->
+  <img class="hero-video" src="{{ '/images/background/dcmg.png' | relative_url }}" alt="DC microgrid illustration">
   <div class="bg"></div>
   <div class="container">
     <span class="badge" style="color: #fff;">AI-Assisted Design Automation</span>
