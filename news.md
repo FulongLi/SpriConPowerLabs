@@ -20,15 +20,29 @@ description: Latest updates and announcements from Spirit Connect Power Labs.
 
 <section class="section">
   <div class="container">
-    <h2 style="margin-bottom: 2rem; color: var(--muted); font-size: 1.5rem;">2025</h2>
+    <h2 style="margin-bottom: 2rem; color: var(--fg-dim); font-size: 1.5rem;">2026</h2>
+    
+    <div class="grid" style="grid-template-columns: 1fr; gap: 1.5rem;">
+      <div class="card">
+        <span class="small">March 2026</span>
+        <h3 style="margin-top: 0.5rem;">Power Electronics AI Agent Vision Announced</h3>
+        <p>
+          Spirit Connect Power Labs unveiled its mission to build the Power Electronics AI Agent —
+          an intelligent design partner spanning device, converter, and system levels — and the
+          closed-loop ecosystem where AI designs the power systems that power AI.
+        </p>
+      </div>
+    </div>
+
+    <h2 style="margin-bottom: 2rem; margin-top: 3rem; color: var(--fg-dim); font-size: 1.5rem;">2025</h2>
     
     <div class="grid" style="grid-template-columns: 1fr; gap: 1.5rem;">
       <div class="card">
         <span class="small">September 28, 2025</span>
         <h3 style="margin-top: 0.5rem;">Official Website Launch</h3>
         <p>
-          Our new website for Spirit Connect Power Labs went live, sharing our AI-assisted power electronics
-          design services and resources.
+          Our website went live, sharing our AI-assisted power electronics design capabilities
+          and research resources with the community.
         </p>
       </div>
 
@@ -36,8 +50,8 @@ description: Latest updates and announcements from Spirit Connect Power Labs.
         <span class="small">June 9, 2025</span>
         <h3 style="margin-top: 0.5rem;">Company Founded</h3>
         <p>
-          Spirit Connect Power Labs was officially established to accelerate innovation in power electronics
-          through AI-driven design automation.
+          Spirit Connect Power Labs was officially established to accelerate innovation in power
+          electronics through AI-driven design automation.
         </p>
       </div>
     </div>

@@ -12,7 +12,7 @@ permalink: /company/team/
   <div class="container">
     <h1>Team</h1>
     <p class="lead">
-      Engineers and researchers combining power electronics, AI, and data-driven design to redefine converter development.
+      The people building the Power Electronics AI Agent — combining deep hardware expertise with cutting-edge AI.
     </p>
   </div>
 </header>
@@ -33,8 +33,8 @@ permalink: /company/team/
         <p style="margin-bottom: 1.25rem; line-height: 1.8;">
           Dr. Fulong Li is a power electronics engineer and researcher specializing in
           <strong>DC microgrids, wide-bandgap devices (SiC/GaN), and converter optimization & validation</strong>.
-          He founded <em>Spirit Connect Power Labs</em> to advance AI-assisted converter design and automation,
-          bridging data-driven modeling with practical hardware development.
+          He founded <em>Spirit Connect Power Labs</em> to build the Power Electronics AI Agent —
+          closing the loop between intelligent design automation and the energy infrastructure that powers AI.
         </p>
         <div style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border);">
           <p style="margin: 0.5rem 0; color: var(--muted);">

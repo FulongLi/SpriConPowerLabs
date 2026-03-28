@@ -2,7 +2,7 @@
 layout: default
 title: Contact Us
 permalink: /contact/
-description: Get in touch with Spirit Connect Power Labs.
+description: Get in touch with Spirit Connect Power Labs — explore the Power Electronics AI Agent.
 ---
 
 <header class="hero">
@@ -13,7 +13,7 @@ description: Get in touch with Spirit Connect Power Labs.
   <div class="container">
     <h1>Contact Us</h1>
     <p class="lead">
-      Have a project in mind or want to learn more about our AI-assisted power electronics design solutions?
+      Interested in the Power Electronics AI Agent, want to discuss a project, or explore a partnership?
       We'd love to hear from you.
     </p>
   </div>
@@ -23,13 +23,13 @@ description: Get in touch with Spirit Connect Power Labs.
   <div class="container">
     <h2>Get in Touch</h2>
     <p class="lead" style="margin-bottom: 2rem;">
-      Have questions about our services or want to discuss a project? We'd love to hear from you.
+      Whether you're an engineer, a company, or a research group — let's explore what the AI Agent can do for your next design.
     </p>
     
     <div class="grid">
       <div class="card">
         <h3>Email</h3>
-        <p style="margin-bottom: 0.75rem;">For general inquiries and collaboration:</p>
+        <p style="margin-bottom: 0.75rem;">For inquiries and collaboration:</p>
         <p style="margin: 0;">
           <a href="mailto:info@spiritconnect.co.uk" style="font-size: 1.1rem; font-weight: 600;">
             info@spiritconnect.co.uk
@@ -62,8 +62,8 @@ description: Get in touch with Spirit Connect Power Labs.
   <div class="container">
     <h2>Work With Us</h2>
     <p>
-      If you’d like to discuss a project, request a demo of our design automation tools, or explore a partnership,
-      send us an email and we’ll get back to you promptly.
+      We offer consultancy, AI-Agent-as-a-Service, and embedded integration into your toolchain.
+      Tell us about your challenge and we'll find the right way to work together.
     </p>
   </div>
 </section>

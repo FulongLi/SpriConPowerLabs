@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Services
+title: The AI Agent
 permalink: /research/services/
-description: AI-assisted power electronics converter design and consultancy — microgrids, converters, and component expertise.
+description: The Power Electronics AI Agent — intelligent design automation from device to converter to system.
 ---
 
 <header class="hero">
   <div class="bg"></div>
   <div class="container">
-    <h1>Our Services & Expertise</h1>
+    <h1>The Power Electronics AI Agent</h1>
     <p class="lead">
-      Spirit Connect Power Labs delivers <strong>AI-assisted design automation</strong> and expert consultancy for
-      advanced power electronics — accelerating development while ensuring physics-based accuracy and reliability.
+      An intelligent design partner that reasons across device, converter, and system — accelerating
+      every stage of power electronics development with physics-guided AI.
     </p>
     <div class="hero-actions">
       <a class="btn btn-primary" href="{{ '/contact/' | relative_url }}">Request a demo</a>
@@ -22,25 +22,23 @@ description: AI-assisted power electronics converter design and consultancy — 
 
 <section class="section">
   <div class="container">
-    <h2>Core Domains</h2>
+    <h2>Device-Level Intelligence</h2>
+    <p class="lead">The foundation: deep understanding of every semiconductor and passive component in your design.</p>
     <div class="grid">
-      <div class="card" style="text-align:center;">
-        <img src="{{ '/images/research/microgrids.png' | relative_url }}" alt="Microgrids" style="width:100%;max-width:240px;border-radius:8px;margin-bottom:1rem;">
-        <h3>Microgrids</h3>
-        <p>Designing, modeling, and controlling DC and AC microgrids for resilient and efficient energy distribution.
-           Expertise in hybrid AC/DC architectures and renewable integration.</p>
+      <div class="card">
+        <h3>Device characterization</h3>
+        <p>Automated extraction of switching loss, conduction loss, and thermal parameters from datasheets
+        and measurement data — building accurate models for SiC, GaN, and Si devices.</p>
       </div>
-      <div class="card" style="text-align:center;">
-        <img src="{{ '/images/research/converter.png' | relative_url }}" alt="Converters" style="width:100%;max-width:240px;border-radius:8px;margin-bottom:1rem;">
-        <h3>Converters</h3>
-        <p>Optimized converter design and control strategies for high-performance applications — buck/boost, LLC, DAB,
-           multi-level DC-AC — with automated parameter search and soft-switching control regions.</p>
+      <div class="card">
+        <h3>Component selection</h3>
+        <p>AI-driven search across comprehensive device databases to find optimal components matching your
+        voltage, current, thermal, and cost constraints.</p>
       </div>
-      <div class="card" style="text-align:center;">
-        <img src="{{ '/images/research/components.png' | relative_url }}" alt="Components" style="width:100%;max-width:240px;border-radius:8px;margin-bottom:1rem;">
-        <h3>Components</h3>
-        <p>Deep knowledge of modern semiconductor devices (SiC/GaN) and passive components, enabling efficient, reliable,
-           and compact solutions tailored to your thermal and cost constraints.</p>
+      <div class="card">
+        <h3>Magnetics modeling</h3>
+        <p>Core material selection, winding optimization, and copper/core loss estimation — automated
+        sizing that respects thermal limits and manufacturability.</p>
       </div>
     </div>
   </div>
@@ -48,35 +46,81 @@ description: AI-assisted power electronics converter design and consultancy — 
 
 <section class="section section-alt">
   <div class="container">
-    <h2>AI-Assisted Design Capabilities</h2>
+    <h2>Converter-Level Intelligence</h2>
+    <p class="lead">Where the AI Agent truly shines — orchestrating the full converter design flow in a single pass.</p>
     <div class="grid">
-      <div class="card"><h3>Topology Exploration</h3><p>Constraint-aware search across resonant and non-resonant architectures with Pareto trade-offs.</p></div>
-      <div class="card"><h3>Magnetics & Device Libraries</h3><p>Core material data, winding optimization, switching loss estimation, and automated sizing for high efficiency.</p></div>
-      <div class="card"><h3>Loss, Thermal & EMI Modeling</h3><p>Datasheet + physics-guided models producing accurate efficiency maps and safe operating areas.</p></div>
-      <div class="card"><h3>Control Synthesis</h3><p>Automatic tuning of loops and modulation strategies — phase-shift, TPWM, and multi-phase control.</p></div>
-      <div class="card"><h3>Validation Planning</h3><p>Auto-generated HIL/SIL test matrices, data capture scripts, and repeatable lab workflows.</p></div>
+      <div class="card">
+        <h3>Topology exploration</h3>
+        <p>Constraint-aware search across resonant and non-resonant architectures — LLC, DAB, multi-level
+        DC-AC, interleaved buck/boost — with Pareto trade-off analysis.</p>
+      </div>
+      <div class="card">
+        <h3>Control synthesis</h3>
+        <p>Automatic tuning of current/voltage loops, phase-shift and TPWM modulation strategies,
+        soft-switching region mapping, and stability verification.</p>
+      </div>
+      <div class="card">
+        <h3>Multi-objective optimization</h3>
+        <p>Efficiency, power density, cost, temperature, and EMI headroom — the agent finds the best
+        trade-offs and explains the rationale behind each design point.</p>
+      </div>
     </div>
   </div>
 </section>
 
 <section class="section">
   <div class="container">
-    <h2>Engagement Models</h2>
+    <h2>System-Level Intelligence</h2>
+    <p class="lead">Scaling up from a single converter to an entire power network — with every piece co-optimized.</p>
     <div class="grid">
-      <div class="card"><h3>Consultancy</h3><p>Work directly with our experts to review architectures, optimize existing designs, or solve thermal,
-           EMI, or control challenges.</p></div>
-      <div class="card"><h3>Design Automation as a Service (DAaaS)</h3><p>We run the entire automation pipeline and deliver design maps, BOMs, control recommendations, and validation plans.</p></div>
-      <div class="card"><h3>Embedded Integration</h3><p>APIs/CLI that fit into your toolchain (Python, MATLAB/Simulink, SPICE) with your datasets and validation rigs.</p></div>
+      <div class="card">
+        <h3>Microgrid architecture</h3>
+        <p>AI-assisted design of DC and AC microgrids, hybrid distribution topologies, and renewable
+        integration — optimized for resilience, efficiency, and cost.</p>
+      </div>
+      <div class="card">
+        <h3>Grid-level co-optimization</h3>
+        <p>Every converter in the system is designed with awareness of the whole — mission profiles,
+        load sharing, fault tolerance, and energy management work in concert.</p>
+      </div>
+      <div class="card">
+        <h3>Validation & feedback</h3>
+        <p>Auto-generated HIL/SIL test matrices, data capture scripts, and repeatable lab workflows —
+        feeding operational data back to the AI Agent for continuous improvement.</p>
+      </div>
     </div>
   </div>
 </section>
 
 <section class="section section-alt">
   <div class="container">
-    <h2>Start Your Project</h2>
+    <h2>How to work with us</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Consultancy</h3>
+        <p>Work directly with our team to review architectures, optimize existing designs, or solve
+        specific thermal, EMI, or control challenges using the AI Agent.</p>
+      </div>
+      <div class="card">
+        <h3>AI Agent as a Service</h3>
+        <p>We run the full AI-driven pipeline and deliver design maps, BOMs, control parameters,
+        and validation plans — you focus on your product, we handle the design intelligence.</p>
+      </div>
+      <div class="card">
+        <h3>Embedded integration</h3>
+        <p>APIs and CLI tools that integrate the AI Agent into your existing toolchain — Python,
+        MATLAB/Simulink, SPICE — with your datasets and validation rigs.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Start your project</h2>
     <p>
-      Whether designing a next-generation DC-DC converter, refining an inverter, or exploring microgrid architectures,
-      we can accelerate your work.
+      Whether you're designing a next-generation DC-DC converter, building a microgrid for an AI data center,
+      or exploring how the AI Agent can transform your workflow — let's talk.
     </p>
     <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1rem;">
       <a class="btn btn-primary" href="{{ '/contact/' | relative_url }}">Contact us</a>

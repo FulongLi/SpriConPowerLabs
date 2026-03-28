@@ -2,7 +2,7 @@
 layout: default
 title: Careers
 permalink: /company/careers/
-description: Join Spirit Connect Power Labs and help shape the future of AI-assisted power electronics design.
+description: Join Spirit Connect Power Labs — help build the Power Electronics AI Agent and shape the future of energy.
 ---
 
 <header class="hero">
@@ -12,7 +12,7 @@ description: Join Spirit Connect Power Labs and help shape the future of AI-assi
   <div class="bg"></div>
   <div class="container">
     <h1>Careers</h1>
-    <p class="lead">We're building a compact, expert team at the intersection of power electronics and AI.</p>
+    <p class="lead">We're building a compact, expert team to create the Power Electronics AI Agent — where deep hardware knowledge meets cutting-edge AI.</p>
   </div>
 </header>
 
@@ -20,15 +20,16 @@ description: Join Spirit Connect Power Labs and help shape the future of AI-assi
   <div class="container">
     <h2>Join Our Team</h2>
     <p class="lead">
-      We're always interested in connecting with talented engineers and researchers who share our passion
-      for advancing power electronics through AI-driven innovation.
+      We're looking for people who are passionate about closing the loop between AI and energy —
+      engineers and researchers who want to build the intelligent design tools that will shape
+      how power systems are created for decades to come.
     </p>
     
     <div class="card" style="max-width: 700px; margin: 2rem auto;">
       <h3>Current Opportunities</h3>
       <p style="margin-bottom: 1rem;">
-        We don't have any open full-time positions at the moment, but we're always open to collaboration
-        with contractors, researchers, and consultants.
+        We don't have open full-time positions at the moment, but we're always open to collaboration
+        with contractors, researchers, and consultants who share our vision.
       </p>
       <p>
         If you're interested in working with us, please send a brief introduction and your CV to
@@ -39,15 +40,18 @@ description: Join Spirit Connect Power Labs and help shape the future of AI-assi
     <div class="grid" style="margin-top: 3rem;">
       <div class="card">
         <h3>Power Electronics</h3>
-        <p>Converter design, control systems, thermal management, and hardware validation expertise.</p>
+        <p>Converter design, device characterization, control systems, thermal management, and
+        hardware validation — the domain expertise that grounds our AI.</p>
       </div>
       <div class="card">
         <h3>AI & Machine Learning</h3>
-        <p>Optimization algorithms, surrogate modeling, and data-driven design automation.</p>
+        <p>Physics-informed models, optimization algorithms, surrogate modeling, and agent architectures
+        that reason across the device-converter-system stack.</p>
       </div>
       <div class="card">
         <h3>Software Engineering</h3>
-        <p>Toolchain development, API design, and integration with simulation environments.</p>
+        <p>Building the platform, APIs, and integrations that bring the AI Agent to engineers'
+        existing workflows — Python, MATLAB, SPICE, and beyond.</p>
       </div>
     </div>
   </div>
