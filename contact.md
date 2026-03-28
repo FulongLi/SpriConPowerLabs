@@ -58,7 +58,7 @@ description: Get in touch with Spirit Connect Power Labs.
   </div>
 </section>
 
-<section class="section section-dark">
+<section class="section section-alt">
   <div class="container">
     <h2>Work With Us</h2>
     <p>

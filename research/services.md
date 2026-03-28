@@ -46,7 +46,7 @@ description: AI-assisted power electronics converter design and consultancy — 
   </div>
 </section>
 
-<section class="section section-dark">
+<section class="section section-alt">
   <div class="container">
     <h2>AI-Assisted Design Capabilities</h2>
     <div class="grid">
@@ -71,7 +71,7 @@ description: AI-assisted power electronics converter design and consultancy — 
   </div>
 </section>
 
-<section class="section section-dark">
+<section class="section section-alt">
   <div class="container">
     <h2>Start Your Project</h2>
     <p>

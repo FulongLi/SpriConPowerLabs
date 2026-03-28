@@ -53,7 +53,7 @@ description: AI-assisted power electronics converter design automation.
   </div>
 </section>
 
-<section class="section section-dark">
+<section class="section section-alt">
   <div class="container">
     <h2>What our automation does</h2>
     <p class="lead">A modular toolchain that plugs into your design flow — or we run it for you as a service.</p>

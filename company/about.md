@@ -34,7 +34,7 @@ description: About Spirit Connect Power Labs — AI-assisted power electronics d
   </div>
 </section>
 
-<section class="section section-dark">
+<section class="section section-alt">
   <div class="container">
     <h2>Our Focus</h2>
     <div class="grid">
@@ -90,7 +90,7 @@ description: About Spirit Connect Power Labs — AI-assisted power electronics d
   </div>
 </section>
 
-<section class="section section-dark">
+<section class="section section-alt">
   <div class="container">
     <h2>Get in Touch</h2>
     <p>
