@@ -11,8 +11,8 @@ description: Designing, modeling, and controlling DC and AC microgrids for resil
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">Microgrids</h1>
-    <p class="lead" style="color: #fff;">Designing, modeling, and controlling DC and AC microgrids for resilient and efficient energy distribution.</p>
+    <h1>Microgrids</h1>
+    <p class="lead">Designing, modeling, and controlling DC and AC microgrids for resilient and efficient energy distribution.</p>
   </div>
 </header>
 

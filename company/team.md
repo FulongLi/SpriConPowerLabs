@@ -10,8 +10,8 @@ permalink: /company/team/
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">Team</h1>
-    <p class="lead" style="color: #fff;">
+    <h1>Team</h1>
+    <p class="lead">
       Engineers and researchers combining power electronics, AI, and data-driven design to redefine converter development.
     </p>
   </div>
@@ -25,7 +25,7 @@ permalink: /company/team/
         <img 
           src="{{ '/images/team/fulong_li.jpg' | relative_url }}" 
           alt="Dr. Fulong Li" 
-          style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0 auto 1.5rem; display: block; border: 4px solid var(--border); box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0 auto 1.5rem; display: block; border: 3px solid var(--border); box-shadow: 0 4px 20px rgba(0,200,255,0.1);">
         <h3 style="margin-bottom: 0.5rem; font-size: 1.5rem;">Dr. Fulong Li</h3>
         <p style="margin-bottom: 1.5rem; color: var(--brand); font-weight: 600; font-size: 1.1rem;">
           Founder & CEO

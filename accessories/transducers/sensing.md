@@ -11,8 +11,8 @@ description: Precision sensing solutions for validation and monitoring in power 
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">Sensing Device</h1>
-    <p class="lead" style="color: #fff;">Precision sensing solutions for validation and monitoring in power electronics.</p>
+    <h1>Sensing Device</h1>
+    <p class="lead">Precision sensing solutions for validation and monitoring in power electronics.</p>
   </div>
 </header>
 

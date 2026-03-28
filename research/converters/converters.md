@@ -11,8 +11,8 @@ description: Optimized converter design and control strategies for high-performa
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">Converters</h1>
-    <p class="lead" style="color: #fff;">Optimized converter design and control strategies for high-performance applications.</p>
+    <h1>Converters</h1>
+    <p class="lead">Optimized converter design and control strategies for high-performance applications.</p>
   </div>
 </header>
 

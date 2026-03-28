@@ -11,8 +11,8 @@ description: Latest updates and announcements from SpriCon Power Labs.
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">News & Updates</h1>
-    <p class="lead" style="color: #fff;">
+    <h1>News & Updates</h1>
+    <p class="lead">
       Key milestones from <strong>SpriCon Power Labs</strong>.
     </p>
   </div>

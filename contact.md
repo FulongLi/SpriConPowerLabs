@@ -11,8 +11,8 @@ description: Get in touch with SpriCon Power Labs.
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">Contact Us</h1>
-    <p class="lead" style="color: #fff;">
+    <h1>Contact Us</h1>
+    <p class="lead">
       Have a project in mind or want to learn more about our AI-assisted power electronics design solutions?
       We'd love to hear from you.
     </p>

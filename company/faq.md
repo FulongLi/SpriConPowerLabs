@@ -11,8 +11,8 @@ description: Frequently asked questions about SpriCon Power Labs services, data,
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">FAQ</h1>
-    <p class="lead" style="color: #fff;">Common questions about data, IP, accuracy, and delivery.</p>
+    <h1>FAQ</h1>
+    <p class="lead">Common questions about data, IP, accuracy, and delivery.</p>
   </div>
 </header>
 

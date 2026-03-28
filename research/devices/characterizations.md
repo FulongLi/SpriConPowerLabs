@@ -11,8 +11,8 @@ description: Device testing, characterization, and modeling services for power e
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">Characterizations</h1>
-    <p class="lead" style="color: #fff;">Device testing, characterization, and modeling services for power electronics design automation.</p>
+    <h1>Characterizations</h1>
+    <p class="lead">Device testing, characterization, and modeling services for power electronics design automation.</p>
   </div>
 </header>
 

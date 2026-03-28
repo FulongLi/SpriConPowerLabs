@@ -11,8 +11,8 @@ description: Join SpriCon Power Labs and help shape the future of AI-assisted po
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">Careers</h1>
-    <p class="lead" style="color: #fff;">We're building a compact, expert team at the intersection of power electronics and AI.</p>
+    <h1>Careers</h1>
+    <p class="lead">We're building a compact, expert team at the intersection of power electronics and AI.</p>
   </div>
 </header>
 

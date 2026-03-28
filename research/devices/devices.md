@@ -11,8 +11,8 @@ description: Device testing, modelling, and characterisation for power electroni
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">Devices</h1>
-    <p class="lead" style="color: #fff;">Testing, modelling, and characterisation for power electronics design automation.</p>
+    <h1>Devices</h1>
+    <p class="lead">Testing, modelling, and characterisation for power electronics design automation.</p>
   </div>
 </header>
 

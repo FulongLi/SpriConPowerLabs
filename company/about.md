@@ -11,8 +11,8 @@ description: About SpriCon Power Labs — AI-assisted power electronics design a
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">About SpriCon Power Labs</h1>
-    <p class="lead" style="color: #fff;">
+    <h1>About SpriCon Power Labs</h1>
+    <p class="lead">
       We combine <strong>deep power electronics expertise</strong> with <strong>AI-driven design automation</strong> to shorten
       development cycles and build reliable, future-ready energy conversion systems.
     </p>
