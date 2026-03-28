@@ -4,11 +4,11 @@
 ![status - active](https://img.shields.io/badge/status-active-success)
 
 
-# SpriCon Power Labs
+# Spirit Connect Power Labs
 
 > **AI-Assisted Power Electronics Converter Design Automation**
 
-Welcome to the public website repository of **SpriCon Power Labs**.  
+Welcome to the public website repository of **Spirit Connect Power Labs**.  
 We accelerate power electronics development using artificial intelligence: from topology exploration to thermal analysis and control synthesis.
 
 **Live site:** [https://fulongli.github.io/SpriConPowerLabs/](https://fulongli.github.io/SpriConPowerLabs/)
@@ -17,7 +17,7 @@ We accelerate power electronics development using artificial intelligence: from 
 
 ## What We Do
 
-SpriCon Power Labs builds **automation tools and workflows** that help engineers design high-performance power converters faster and with better trade-offs.
+Spirit Connect Power Labs builds **automation tools and workflows** that help engineers design high-performance power converters faster and with better trade-offs.
 
 ### Core Services
 

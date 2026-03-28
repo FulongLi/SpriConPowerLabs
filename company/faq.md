@@ -2,7 +2,7 @@
 layout: default
 title: FAQ
 permalink: /company/faq/
-description: Frequently asked questions about SpriCon Power Labs services, data, and IP.
+description: Frequently asked questions about Spirit Connect Power Labs services, data, and IP.
 ---
 
 <header class="hero">

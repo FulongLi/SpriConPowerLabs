@@ -10,7 +10,7 @@ description: AI-assisted power electronics converter design and consultancy — 
   <div class="container">
     <h1>Our Services & Expertise</h1>
     <p class="lead">
-      SpriCon Power Labs delivers <strong>AI-assisted design automation</strong> and expert consultancy for
+      Spirit Connect Power Labs delivers <strong>AI-assisted design automation</strong> and expert consultancy for
       advanced power electronics — accelerating development while ensuring physics-based accuracy and reliability.
     </p>
     <div class="hero-actions">
@@ -46,7 +46,7 @@ description: AI-assisted power electronics converter design and consultancy — 
   </div>
 </section>
 
-<section class="section">
+<section class="section section-dark">
   <div class="container">
     <h2>AI-Assisted Design Capabilities</h2>
     <div class="grid">
@@ -71,14 +71,14 @@ description: AI-assisted power electronics converter design and consultancy — 
   </div>
 </section>
 
-<section class="section">
+<section class="section section-dark">
   <div class="container">
     <h2>Start Your Project</h2>
     <p>
       Whether designing a next-generation DC-DC converter, refining an inverter, or exploring microgrid architectures,
       we can accelerate your work.
     </p>
-    <div class="hero-actions" style="margin-top:1rem;">
+    <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1rem;">
       <a class="btn btn-primary" href="{{ '/contact/' | relative_url }}">Contact us</a>
       <a class="btn btn-ghost" href="{{ '/case-studies/dab/' | relative_url }}">See how we work</a>
     </div>

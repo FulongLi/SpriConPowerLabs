@@ -2,7 +2,7 @@
 layout: default
 title: Contact Us
 permalink: /contact/
-description: Get in touch with SpriCon Power Labs.
+description: Get in touch with Spirit Connect Power Labs.
 ---
 
 <header class="hero">
@@ -50,7 +50,7 @@ description: Get in touch with SpriCon Power Labs.
         <p style="margin-bottom: 0.75rem;">Connect and follow updates:</p>
         <p style="margin: 0;">
           <a href="https://www.linkedin.com/in/fulong-li-6bb443127" target="_blank" style="font-size: 1.1rem; font-weight: 600;">
-            SpriCon Power Labs
+            Spirit Connect Power Labs
           </a>
         </p>
       </div>
@@ -58,7 +58,7 @@ description: Get in touch with SpriCon Power Labs.
   </div>
 </section>
 
-<section class="section">
+<section class="section section-dark">
   <div class="container">
     <h2>Work With Us</h2>
     <p>
