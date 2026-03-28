@@ -33,7 +33,7 @@ permalink: /company/team/
         <p style="margin-bottom: 1.25rem; line-height: 1.8;">
           Dr. Fulong Li is a power electronics engineer and researcher specializing in
           <strong>DC microgrids, wide-bandgap devices (SiC/GaN), and converter optimization & validation</strong>.
-          He founded <em>Spirit Connect – Power Labs</em> to advance AI-assisted converter design and automation,
+          He founded <em>SpriCon Power Labs</em> to advance AI-assisted converter design and automation,
           bridging data-driven modeling with practical hardware development.
         </p>
         <div style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border);">

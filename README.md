@@ -4,20 +4,20 @@
 ![status - active](https://img.shields.io/badge/status-active-success)
 
 
-# Spirit Connect – Power Labs
+# SpriCon Power Labs
 
 > **AI-Assisted Power Electronics Converter Design Automation**
 
-Welcome to the public website repository of **Spirit Connect – Power Labs**.  
+Welcome to the public website repository of **SpriCon Power Labs**.  
 We accelerate power electronics development using artificial intelligence: from topology exploration to thermal analysis and control synthesis.
 
-**Live site:** [https://fulongli.github.io/SCPowerLabs/](https://fulongli.github.io/SCPowerLabs/)
+**Live site:** [https://fulongli.github.io/SpriConPowerLabs/](https://fulongli.github.io/SpriConPowerLabs/)
 
 ---
 
 ## What We Do
 
-Spirit Connect – Power Labs builds **automation tools and workflows** that help engineers design high-performance power converters faster and with better trade-offs.
+SpriCon Power Labs builds **automation tools and workflows** that help engineers design high-performance power converters faster and with better trade-offs.
 
 ### Core Services
 
@@ -49,7 +49,7 @@ This website is built using:
 ## Project Structure
 
 ```
-SCPowerLabs/
+SpriConPowerLabs/
 ├── _config.yml          # Jekyll configuration
 ├── _includes/            # Reusable components (navbar, footer, scripts)
 ├── _layouts/            # Page layouts
@@ -81,8 +81,8 @@ SCPowerLabs/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fulongli/SCPowerLabs.git
-   cd SCPowerLabs
+   git clone https://github.com/FulongLi/SpriConPowerLabs.git
+   cd SpriConPowerLabs
    ```
 
 2. Install dependencies:
@@ -95,7 +95,7 @@ SCPowerLabs/
    bundle exec jekyll serve
    ```
 
-4. Open your browser and navigate to `http://localhost:4000/SCPowerLabs/`
+4. Open your browser and navigate to `http://localhost:4000/SpriConPowerLabs/`
 
 ---
 
@@ -115,7 +115,7 @@ See [LICENSE.md](LICENSE.md) for details.
 
 - **Email:** [info@spiritconnect.co.uk](mailto:info@spiritconnect.co.uk)
 - **Location:** Cardiff, United Kingdom
-- **Website:** [https://fulongli.github.io/SCPowerLabs/](https://fulongli.github.io/SCPowerLabs/)
+- **Website:** [https://fulongli.github.io/SpriConPowerLabs/](https://fulongli.github.io/SpriConPowerLabs/)
 
 ---
 

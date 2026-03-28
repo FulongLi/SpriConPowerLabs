@@ -2,7 +2,7 @@
 layout: default
 title: About
 permalink: /about/
-description: About Spirit Connect – Power Labs — AI-assisted power electronics design automation and consultancy.
+description: About SpriCon Power Labs — AI-assisted power electronics design automation and consultancy.
 ---
 
 <header class="hero">
@@ -11,7 +11,7 @@ description: About Spirit Connect – Power Labs — AI-assisted power electroni
   </video>
   <div class="bg"></div>
   <div class="container">
-    <h1 style="color: #fff;">About Spirit Connect – Power Labs</h1>
+    <h1 style="color: #fff;">About SpriCon Power Labs</h1>
     <p class="lead" style="color: #fff;">
       We combine <strong>deep power electronics expertise</strong> with <strong>AI-driven design automation</strong> to shorten
       development cycles and build reliable, future-ready energy conversion systems.
@@ -23,7 +23,7 @@ description: About Spirit Connect – Power Labs — AI-assisted power electroni
   <div class="container">
     <h2>Who We Are</h2>
     <p>
-      Spirit Connect – Power Labs was founded to help engineers and companies accelerate innovation in
+      SpriCon Power Labs was founded to help engineers and companies accelerate innovation in
       power electronics. Our mission is to make converter development faster, safer, and more insightful
       by uniting physics-based models, rich component data, and AI optimization techniques.
     </p>

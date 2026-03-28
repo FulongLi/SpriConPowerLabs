@@ -2,7 +2,7 @@
 layout: default
 title: Careers
 permalink: /company/careers/
-description: Join Spirit Connect – Power Labs and help shape the future of AI-assisted power electronics design.
+description: Join SpriCon Power Labs and help shape the future of AI-assisted power electronics design.
 ---
 
 <header class="hero">
