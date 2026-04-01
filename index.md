@@ -108,7 +108,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
         <p class="small">Panxin Technologies</p>
       </div>
       <div>
-        <img src="{{ '/images/general/SHI_logo.jpg' | relative_url }}" alt="Sumitomo Heavy Industries" style="max-width:180px;">
+        <img src="{{ '/images/general/SHI_logo.png' | relative_url }}" alt="Sumitomo Heavy Industries" style="max-width:180px;">
         <p class="small">Sumitomo Heavy Industries</p>
       </div>
     </div>
