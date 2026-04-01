@@ -125,7 +125,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
         <p class="small">Cardiff University</p>
       </div>
       <div>
-        <img src="{{ '/images/general/SHU_logo.jpg' | relative_url }}" alt="Shanghai University" style="max-width:160px;">
+        <img src="{{ '/images/general/SHU_logo.png' | relative_url }}" alt="Shanghai University" style="max-width:160px;">
         <p class="small">Shanghai University</p>
       </div>
       <div>
@@ -133,7 +133,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
         <p class="small">Loughborough University</p>
       </div>
       <div>
-        <img src="{{ '/images/general/UG_logo.png' | relative_url }}" alt="University of Glasgow" style="max-width:160px;">
+        <img src="{{ '/images/general/UG_logo.webp' | relative_url }}" alt="University of Glasgow" style="max-width:160px;">
         <p class="small">University of Glasgow</p>
       </div>
     </div>
