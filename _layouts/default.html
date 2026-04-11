@@ -3,11 +3,13 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <meta name="theme-color" content="#06090f"/>
+  <meta name="theme-color" content="#101011"/>
   <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}"/>
+  <link rel="preconnect" href="https://api.fontshare.com" crossorigin>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,600,700,900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}"/>
   <link rel="icon" type="image/svg+xml" href="{{ '/images/general/logo_svg.svg' | relative_url }}">
   <meta property="og:image" content="{{ '/images/general/logo_svg.svg' | relative_url }}">

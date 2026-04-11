@@ -11,7 +11,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
   <div class="bg"></div>
   <div class="container">
     <span class="badge">Power Electronics AI Agent</span>
-    <h1>The AI that designs the power systems that power AI</h1>
+    <h1>The AI that <span class="text-gradient">designs</span> the power systems that power AI</h1>
     <p class="lead">
       We are building a Power Electronics AI Agent that closes the loop between intelligent
       system design and the energy infrastructure that fuels it — from semiconductor device
@@ -24,7 +24,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
   </div>
 </header>
 
-<section class="section">
+<section class="section section-center">
   <div class="container">
     <h2>Design across every scale</h2>
     <p class="lead">
@@ -57,7 +57,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
   </div>
 </section>
 
-<section class="section section-alt">
+<section class="section section-alt section-center">
   <div class="container">
     <h2>The closed-loop vision</h2>
     <p class="lead">
@@ -83,7 +83,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
   </div>
 </section>
 
-<section class="section">
+<section class="section section-center">
   <div class="container">
     <h2>What the AI Agent does</h2>
     <p class="lead">A modular intelligence layer that plugs into your design flow — or we run it for you as a service.</p>
@@ -98,7 +98,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
   </div>
 </section>
 
-<section class="section section-alt">
+<section class="section section-alt section-center">
   <div class="container">
     <h2>Our Ecosystem</h2>
     <p class="lead">Industry partners building the closed-loop future of power electronics and AI together.</p>
@@ -115,7 +115,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
   </div>
 </section>
 
-<section class="section">
+<section class="section section-center">
   <div class="container">
     <h2>Academic Partners</h2>
     <p class="lead">Collaborating with leading research institutions to advance AI-driven power electronics.</p>
