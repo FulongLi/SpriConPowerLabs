@@ -101,7 +101,9 @@ description: Building a Power Electronics AI Agent — from device to converter 
 <section class="section section-alt">
   <div class="container">
     <h2>Our Ecosystem</h2>
-    <p class="lead">Industry partners building the closed-loop future of power electronics and AI together.</p>
+    <p class="lead">Industry partners and leading research institutions building the closed-loop future of power electronics and AI together.</p>
+
+    <h3 style="margin-top:2rem;margin-bottom:1rem;font-size:1.1rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--color-muted,#666);">Industry Partners</h3>
     <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2rem;align-items:center;text-align:center;">
       <div>
         <img src="{{ '/images/general/PX_logo.png' | relative_url }}" alt="Panxin Technologies" style="max-width:180px;">
@@ -112,13 +114,8 @@ description: Building a Power Electronics AI Agent — from device to converter 
         <p class="small">Sumitomo Heavy Industries</p>
       </div>
     </div>
-  </div>
-</section>
 
-<section class="section">
-  <div class="container">
-    <h2>Academic Partners</h2>
-    <p class="lead">Collaborating with leading research institutions to advance AI-driven power electronics.</p>
+    <h3 style="margin-top:2.5rem;margin-bottom:1rem;font-size:1.1rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--color-muted,#666);">Academic Partners</h3>
     <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:2rem;align-items:center;text-align:center;">
       <div>
         <img src="{{ '/images/general/CU_logo.png' | relative_url }}" alt="Cardiff University" style="max-width:160px;">
