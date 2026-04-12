@@ -100,30 +100,24 @@ description: Building a Power Electronics AI Agent — from device to converter 
 
 <section class="section section-alt">
   <div class="container">
-    <h2>Our Ecosystem</h2>
-    <p class="lead">Industry partners and leading research institutions building the closed-loop future of power electronics and AI together.</p>
-
-    <h3 style="margin-top:2rem;margin-bottom:1rem;font-size:1.1rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--color-muted,#666);">Industry Partners</h3>
-    <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2rem;align-items:center;text-align:center;">
-      <div>
-        <img src="{{ '/images/general/PX_logo.png' | relative_url }}" alt="Panxin Technologies" style="max-width:180px;">
-        <p class="small">Panxin Technologies</p>
-      </div>
-      <div>
-        <img src="{{ '/images/general/SHI_logo.png' | relative_url }}" alt="Sumitomo Heavy Industries" style="max-width:180px;">
-        <p class="small">Sumitomo Heavy Industries</p>
-      </div>
-    </div>
-
-    <h3 style="margin-top:2.5rem;margin-bottom:1rem;font-size:1.1rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--color-muted,#666);">Academic Partners</h3>
+    <h2>Partners & Collaborations</h2>
+    <p class="lead">We work with leading academic and industrial partners to push the boundaries of AI-driven power electronics.</p>
     <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:2rem;align-items:center;text-align:center;">
       <div>
         <img src="{{ '/images/general/CU_logo.png' | relative_url }}" alt="Cardiff University" style="max-width:160px;">
         <p class="small">Cardiff University</p>
       </div>
       <div>
+        <img src="{{ '/images/general/SHI_logo.png' | relative_url }}" alt="Sumitomo Heavy Industries" style="max-width:160px;">
+        <p class="small">Sumitomo Heavy Industries</p>
+      </div>
+      <div>
         <img src="{{ '/images/general/SHU_logo.png' | relative_url }}" alt="Shanghai University" style="max-width:160px;">
         <p class="small">Shanghai University</p>
+      </div>
+      <div>
+        <img src="{{ '/images/general/PX_logo.png' | relative_url }}" alt="Panxin Technologies" style="max-width:160px;">
+        <p class="small">Panxin Technologies</p>
       </div>
       <div>
         <img src="{{ '/images/general/LU_logo.png' | relative_url }}" alt="Loughborough University" style="max-width:160px;">
