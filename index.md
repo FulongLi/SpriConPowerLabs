@@ -18,13 +18,30 @@ description: Building a Power Electronics AI Agent — from device to converter 
       to converter to grid.
     </p>
     <div class="hero-actions">
-      <a class="btn btn-primary" href="{{ '/about/' | relative_url }}">Our mission</a>
+      <a class="btn btn-primary" href="#mission">Our mission</a>
       <a class="btn btn-ghost" href="{{ '/research/services/' | relative_url }}">Explore the AI Agent</a>
     </div>
   </div>
 </header>
 
-<section class="section">
+<section id="mission" class="section">
+  <div class="container">
+    <h2>Our Mission</h2>
+    <p>
+      Spirit Connect Power Labs was founded with a single conviction: the future of power electronics
+      and artificial intelligence are inseparable. Every AI data center needs efficient, reliable power
+      delivery. Every power system can be designed better with AI. We exist to close that loop.
+    </p>
+    <p>
+      Our <strong>Power Electronics AI Agent</strong> supports engineers across the full design stack — from
+      semiconductor device characterization and converter topology exploration to microgrid architecture
+      and grid-level co-optimization. Each design cycle feeds data back into the agent, making it
+      smarter, faster, and more accurate over time.
+    </p>
+  </div>
+</section>
+
+<section class="section section-alt">
   <div class="container">
     <h2>Design across every scale</h2>
     <p class="lead">
@@ -57,7 +74,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
   </div>
 </section>
 
-<section class="section section-alt">
+<section class="section">
   <div class="container">
     <h2>The closed-loop vision</h2>
     <p class="lead">
@@ -83,7 +100,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
   </div>
 </section>
 
-<section class="section">
+<section class="section section-alt">
   <div class="container">
     <h2>What the AI Agent does</h2>
     <p class="lead">A modular intelligence layer that plugs into your design flow — or we run it for you as a service.</p>
@@ -98,7 +115,7 @@ description: Building a Power Electronics AI Agent — from device to converter 
   </div>
 </section>
 
-<section class="section section-alt">
+<section class="section">
   <div class="container">
     <h2>Our Ecosystem</h2>
     <p class="lead">Industry partners and leading research institutions building the closed-loop future of power electronics and AI together.</p>
@@ -134,5 +151,16 @@ description: Building a Power Electronics AI Agent — from device to converter 
         <p class="small">University of Glasgow</p>
       </div>
     </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <h2>Get in Touch</h2>
+    <p>
+      Interested in the Power Electronics AI Agent or want to explore collaboration?
+      Reach out at <a href="mailto:info@spiritconnect.co.uk">info@spiritconnect.co.uk</a> or connect on
+      <a href="https://www.linkedin.com/in/fulong-li-6bb443127" target="_blank">LinkedIn</a>.
+    </p>
   </div>
 </section>
